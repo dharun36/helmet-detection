@@ -1,0 +1,7 @@
+names:
+- Without Helmet
+- With Helmet
+nc: 2
+test: d:\WT LAB\Mini Project\images\test
+train: d:\WT LAB\Mini Project\images\train
+val: d:\WT LAB\Mini Project\images\val
